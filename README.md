@@ -1,6 +1,6 @@
 # Enable-mouse-connection-while-disabling-the-touchpad
-鼠标连接同时禁用触摸板的功能 | 零基础快速上手 | 含完整代码注释 | 保姆级教程 | 软件分享
-# 接入鼠标禁用触控板（Enable mouse connection while disabling the touchpad）（保姆级教程）
+鼠标连接同时禁用触摸板的功能 | 零基础快速上手 | 含完整代码注释 | 保姆级教程 | 软件分享  | 禁用触控板 |触控板禁用 | 
+#shu 接入鼠标禁用触控板（Enable mouse connection while disabling the touchpad）（保姆级教程）
 
 ## 可能遇见的问题
 
